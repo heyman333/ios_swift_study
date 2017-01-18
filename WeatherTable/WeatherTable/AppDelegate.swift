@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  WeatherTable
 //
-//  Created by HanYoungsoo on 2017. 1. 8..
-//  Copyright © 2017년 HanYoungsoo. All rights reserved.
+//  Created by HanYoungsoo on 2017. 1. 18..
+//  Copyright © 2017년 YoungsooHan. All rights reserved.
 //
 
 import UIKit
