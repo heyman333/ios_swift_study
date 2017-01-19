@@ -1,4 +1,4 @@
-IOS 공부를 위한 저장소입니다.
+Inflean <Swift로 배우는 IOS project>
 ----
 1.사용언어 : Swift  
 2.IDE : Xcode
