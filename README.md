@@ -1,4 +1,4 @@
-Inflean <Swift로 배우는 IOS project>
+Inflean - Swift로 배우는 IOS project
 ----
-1.사용언어 : Swift  
-2.IDE : Xcode
+* 프로젝트
+ - 1. 
