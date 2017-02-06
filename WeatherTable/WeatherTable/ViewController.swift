@@ -18,8 +18,10 @@ class ViewController: UIViewController, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: <#T##IndexPath#>)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath);
         var dicTemp = datalist[indexPath.row]
+        
+        print("indexPath row :\(indexPath.row)");
         
         cell.textLabel!.text = dicTemp["지역"]
         
