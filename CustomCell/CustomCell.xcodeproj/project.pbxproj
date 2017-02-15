@@ -13,6 +13,21 @@
 		6F765B6E1E50744D002B1BB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F765B6D1E50744D002B1BB2 /* Assets.xcassets */; };
 		6F765B711E50744D002B1BB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F765B6F1E50744D002B1BB2 /* LaunchScreen.storyboard */; };
 		6F765B7A1E5075A5002B1BB2 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F765B791E5075A5002B1BB2 /* MasterViewController.m */; };
+		6FD1E6E21E51D45200792F65 /* apple.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6D41E51D45200792F65 /* apple.jpeg */; };
+		6FD1E6E31E51D45200792F65 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6D51E51D45200792F65 /* background.jpg */; };
+		6FD1E6E41E51D45200792F65 /* blueberry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6D61E51D45200792F65 /* blueberry.jpg */; };
+		6FD1E6E51E51D45200792F65 /* carrot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6D71E51D45200792F65 /* carrot.jpg */; };
+		6FD1E6E61E51D45200792F65 /* cherry.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6D81E51D45200792F65 /* cherry.png */; };
+		6FD1E6E71E51D45200792F65 /* grape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6D91E51D45200792F65 /* grape.jpg */; };
+		6FD1E6E81E51D45200792F65 /* kiwi.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6DA1E51D45200792F65 /* kiwi.png */; };
+		6FD1E6E91E51D45200792F65 /* lemon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6DB1E51D45200792F65 /* lemon.png */; };
+		6FD1E6EA1E51D45200792F65 /* lime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6DC1E51D45200792F65 /* lime.jpg */; };
+		6FD1E6EB1E51D45200792F65 /* meat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6DD1E51D45200792F65 /* meat.jpg */; };
+		6FD1E6EC1E51D45200792F65 /* strawberry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6DE1E51D45200792F65 /* strawberry.jpg */; };
+		6FD1E6ED1E51D45200792F65 /* tomato.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6DF1E51D45200792F65 /* tomato.png */; };
+		6FD1E6EE1E51D45200792F65 /* vegetable.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6E01E51D45200792F65 /* vegetable.jpg */; };
+		6FD1E6EF1E51D45200792F65 /* watermelon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FD1E6E11E51D45200792F65 /* watermelon.png */; };
+		6FD1E6F21E51D8D300792F65 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FD1E6F11E51D8D300792F65 /* CustomCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +41,22 @@
 		6F765B721E50744D002B1BB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F765B781E5075A5002B1BB2 /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		6F765B791E5075A5002B1BB2 /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		6FD1E6D41E51D45200792F65 /* apple.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple.jpeg; sourceTree = "<group>"; };
+		6FD1E6D51E51D45200792F65 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		6FD1E6D61E51D45200792F65 /* blueberry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueberry.jpg; sourceTree = "<group>"; };
+		6FD1E6D71E51D45200792F65 /* carrot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = carrot.jpg; sourceTree = "<group>"; };
+		6FD1E6D81E51D45200792F65 /* cherry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cherry.png; sourceTree = "<group>"; };
+		6FD1E6D91E51D45200792F65 /* grape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = grape.jpg; sourceTree = "<group>"; };
+		6FD1E6DA1E51D45200792F65 /* kiwi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kiwi.png; sourceTree = "<group>"; };
+		6FD1E6DB1E51D45200792F65 /* lemon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lemon.png; sourceTree = "<group>"; };
+		6FD1E6DC1E51D45200792F65 /* lime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lime.jpg; sourceTree = "<group>"; };
+		6FD1E6DD1E51D45200792F65 /* meat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meat.jpg; sourceTree = "<group>"; };
+		6FD1E6DE1E51D45200792F65 /* strawberry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = strawberry.jpg; sourceTree = "<group>"; };
+		6FD1E6DF1E51D45200792F65 /* tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato.png; sourceTree = "<group>"; };
+		6FD1E6E01E51D45200792F65 /* vegetable.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vegetable.jpg; sourceTree = "<group>"; };
+		6FD1E6E11E51D45200792F65 /* watermelon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = watermelon.png; sourceTree = "<group>"; };
+		6FD1E6F01E51D8D300792F65 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		6FD1E6F11E51D8D300792F65 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +90,10 @@
 			isa = PBXGroup;
 			children = (
 				6F765B641E50744D002B1BB2 /* AppDelegate.h */,
+				6FD1E6D31E51D43600792F65 /* Images */,
 				6F765B651E50744D002B1BB2 /* AppDelegate.m */,
+				6FD1E6F01E51D8D300792F65 /* CustomCell.h */,
+				6FD1E6F11E51D8D300792F65 /* CustomCell.m */,
 				6F765B781E5075A5002B1BB2 /* MasterViewController.h */,
 				6F765B791E5075A5002B1BB2 /* MasterViewController.m */,
 				6F765B6A1E50744D002B1BB2 /* Main.storyboard */,
@@ -77,6 +111,27 @@
 				6F765B621E50744D002B1BB2 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6FD1E6D31E51D43600792F65 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				6FD1E6D41E51D45200792F65 /* apple.jpeg */,
+				6FD1E6D51E51D45200792F65 /* background.jpg */,
+				6FD1E6D61E51D45200792F65 /* blueberry.jpg */,
+				6FD1E6D71E51D45200792F65 /* carrot.jpg */,
+				6FD1E6D81E51D45200792F65 /* cherry.png */,
+				6FD1E6D91E51D45200792F65 /* grape.jpg */,
+				6FD1E6DA1E51D45200792F65 /* kiwi.png */,
+				6FD1E6DB1E51D45200792F65 /* lemon.png */,
+				6FD1E6DC1E51D45200792F65 /* lime.jpg */,
+				6FD1E6DD1E51D45200792F65 /* meat.jpg */,
+				6FD1E6DE1E51D45200792F65 /* strawberry.jpg */,
+				6FD1E6DF1E51D45200792F65 /* tomato.png */,
+				6FD1E6E01E51D45200792F65 /* vegetable.jpg */,
+				6FD1E6E11E51D45200792F65 /* watermelon.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +192,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FD1E6ED1E51D45200792F65 /* tomato.png in Resources */,
+				6FD1E6E51E51D45200792F65 /* carrot.jpg in Resources */,
+				6FD1E6E81E51D45200792F65 /* kiwi.png in Resources */,
+				6FD1E6EC1E51D45200792F65 /* strawberry.jpg in Resources */,
+				6FD1E6E21E51D45200792F65 /* apple.jpeg in Resources */,
+				6FD1E6E61E51D45200792F65 /* cherry.png in Resources */,
+				6FD1E6E71E51D45200792F65 /* grape.jpg in Resources */,
+				6FD1E6E31E51D45200792F65 /* background.jpg in Resources */,
 				6F765B711E50744D002B1BB2 /* LaunchScreen.storyboard in Resources */,
 				6F765B6E1E50744D002B1BB2 /* Assets.xcassets in Resources */,
+				6FD1E6EF1E51D45200792F65 /* watermelon.png in Resources */,
+				6FD1E6E41E51D45200792F65 /* blueberry.jpg in Resources */,
+				6FD1E6EE1E51D45200792F65 /* vegetable.jpg in Resources */,
+				6FD1E6EB1E51D45200792F65 /* meat.jpg in Resources */,
 				6F765B6C1E50744D002B1BB2 /* Main.storyboard in Resources */,
+				6FD1E6EA1E51D45200792F65 /* lime.jpg in Resources */,
+				6FD1E6E91E51D45200792F65 /* lemon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,6 +221,7 @@
 			files = (
 				6F765B7A1E5075A5002B1BB2 /* MasterViewController.m in Sources */,
 				6F765B661E50744D002B1BB2 /* AppDelegate.m in Sources */,
+				6FD1E6F21E51D8D300792F65 /* CustomCell.m in Sources */,
 				6F765B631E50744D002B1BB2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -307,6 +377,7 @@
 				6F765B771E50744D002B1BB2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
