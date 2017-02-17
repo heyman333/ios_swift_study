@@ -18,9 +18,6 @@
     self.imgView.layer.cornerRadius = 60.0;
     self.imgView.layer.masksToBounds = true;
     
-    
-    
-    
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
