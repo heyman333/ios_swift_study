@@ -165,7 +165,7 @@
 				TargetAttributes = {
 					6F765B5D1E50744D002B1BB2 = {
 						CreatedOnToolsVersion = 8.2.1;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
